@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "decoder-plugin/1.0.0": {
+        "runtime": {
+          "decoder-plugin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "decoder-plugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
